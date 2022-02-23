@@ -1,0 +1,1 @@
+print("i have to apply DMAS operation")
